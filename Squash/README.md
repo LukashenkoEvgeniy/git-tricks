@@ -2,10 +2,10 @@
 
 ## Introduction
 
-We have 2 branch
+We have 2 branches
 * master
 * feature
-We to do 2 commits into feacher branch
+We do 2 commits into feature branch
 
 ## Squash
 
@@ -31,8 +31,8 @@ Rebese `pick` to `squash` in all commits except the first commit
 
 Enter `ESC` key and type `:wq` for save end finish
 
-Next step its write commit message for commit
-Type new message on the next line afrer comment #This is a combination of 2 commits.
+Next step its write commit-message for commit
+Type new message on the next line after comment `#This is a combination of 2 commits`.
 
 ![](./assets/enter-commit-message.PNG)
 
